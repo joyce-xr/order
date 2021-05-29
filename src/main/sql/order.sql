@@ -1,5 +1,5 @@
-CREATE DATABASE  IF NOT EXISTS `order`;
-USE `order`;
+-- CREATE DATABASE  IF NOT EXISTS `order`;
+-- USE `myOrder`;
 
 DROP TABLE IF EXISTS `categories`;
 CREATE TABLE `categories` (
